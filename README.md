@@ -26,5 +26,5 @@
 <br>
 <br>
 <br>
-<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="50%" align="center" top='100px'></p>
+<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="50%" align="center" bottom='100px'></p>
 
