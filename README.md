@@ -24,10 +24,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnDev&show_icons=true&locale=en&layout=compact" alt="farhan" /></p>
 
-<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="right" class='gift'></p>
-<style>
-    .gift{
-        bottom:'30px';
-        }
-</style>
+<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="right" top='10px'></p>
 
