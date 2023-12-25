@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,idea,vercel,aws" /><br>
 </div>
 <br>
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnDev&show_icons=true&locale=en&layout=compact" alt="farhan" /></p>
 <br>
 <br>
