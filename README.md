@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,laravel,mui,html,css,vscode,github,figma,git,vite" />
+    <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,vscode,github,figma,git,vite" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,aws,ts" /><br>
 </div>
 <br>
