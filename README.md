@@ -17,8 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,vscode,github,figma,git,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,aws,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,vscode,github,git,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" /><br>
 </div>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&show_icons=true&locale\&hide_progress=true" alt="farhan"/></p>
