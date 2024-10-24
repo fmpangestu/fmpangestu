@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" /><br>
 </div>
 <br>
-<div display="flex" justify-content="space-beetwen">
+<div style="display: flex; justify-content: space-between;">
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" alt="GitHub Streak" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&locale\&hide_progress=true" alt="farhan"/></p>
 </div>
