@@ -39,6 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="45%" alt="fun gif" style="margin-right: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="45%" alt="funny gif" style="margin-left: 10px;">
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" height="200px" alt="fun gif" style="margin-right: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="200px" alt="funny gif" style="margin-left: 10px;">
 </p>
+
