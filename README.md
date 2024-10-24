@@ -37,8 +37,8 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" height="200px" alt="fun gif" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true"  height="200px" alt="funny gif" style="margin-left: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" width="40%" height="200px" alt="fun gif" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" width="40%"  height="200px" alt="funny gif" style="margin-left: 10px;">
 </p>
 <p align="center">
   <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" height="200px" alt="fun gif" style="margin-right: 10px;">
