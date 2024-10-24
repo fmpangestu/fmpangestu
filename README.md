@@ -39,7 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="90%" height="70%" alt="fun gif">
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="89%" height="50%" alt="fun gif">
 </p>
 
 <p align="center">
