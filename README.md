@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" alt="More Tools" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">MyStats:</h3>
 
 <table>
   <tr>
