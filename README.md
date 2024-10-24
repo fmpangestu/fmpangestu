@@ -9,26 +9,39 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/farhanmaulanapangestu/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.instagram.com/farhanbaeee/?hl=id#" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-
+<a href="https://www.linkedin.com/in/farhanmaulanapangestu/" target="blank"> 
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/farhanbaeee/?hl=id#" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,tailwindcss,github,git,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" /><br>
-</div>
-<br>
-<div style="display: flex; justify-content: space-between;">
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" alt="GitHub Streak" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&locale\&hide_progress=true" alt="farhan"/></p>
-</div>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnDev&show_icons=true&locale=en&layout=compact" alt="farhan" /></p> -->
-<br>
-<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="50%" align="center" bottom='100px'></p>
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,tailwindcss,github,git,vite" alt="Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" alt="More Tools" />
+</p>
 
+<h3 align="left">GitHub Stats:</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="50%" alt="fun gif">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="funny gif">
+</p>
