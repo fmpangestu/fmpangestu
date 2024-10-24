@@ -21,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts" /><br>
 </div>
 <br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fmpangestu" alt="farhan"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&show_icons=true&locale\&hide_progress=true" alt="farhan"/></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnDev&show_icons=true&locale=en&layout=compact" alt="farhan" /></p> -->
 <br>
