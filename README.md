@@ -24,10 +24,17 @@
 </p>
 
 <h3 align="left">MyStats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" width="40%" height="200px" alt="fun gif" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" width="40%"  height="200px" alt="funny gif" style="margin-left: 10px;">
-</p>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" height="250px" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" height="250px" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" height="200px" alt="fun gif" style="margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="200px" alt="funny gif" style="margin-left: 20px;">
