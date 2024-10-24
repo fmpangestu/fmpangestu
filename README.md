@@ -29,11 +29,11 @@
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" height="200px" alt="GitHub Streak" />
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" height="200px" alt="Top Languages" />
     </td>
   </tr>
 </table>
