@@ -30,7 +30,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" height="250px" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&theme=transparent&show_icons=true&hide_progress=true" height="250px" alt="Top Languages" />
+      ![Farhan Maulana Pangestu GitHub stats](https://github-readme-stats.vercel.app/api?username=fmpangestu&theme=transparent&show_icons=true)
     </td>
   </tr>
 </table>
