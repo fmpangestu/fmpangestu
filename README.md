@@ -30,7 +30,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=transparent" height="250px" alt="GitHub Streak" />
     </td>
     <td>
-      ![Farhan Maulana Pangestu GitHub stats](https://github-readme-stats.vercel.app/api?username=fmpangestu&theme=transparent&show_icons=true)
+      <img src="https://github-readme-stats.vercel.app/api?username=fmpangestu&theme=transparent&show_icons=true" height="250px"/>
     </td>
   </tr>
 </table>
