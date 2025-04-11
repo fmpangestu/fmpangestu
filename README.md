@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Farhan Maulana Pangestu</h1>
 <h3 align="center"> Make Changes Even if only 1% per day</h3>
 
-- 👨‍💻 You can also check out my portfolio at [https://github.com/fmpangestu](https://github.com/fmpangestu)
+- 👨‍💻 You can also check out my portfolio at [https://fmpangestu.vercel.app](https://fmpangestu.vercel.app)
 
 - 📫 How to reach me **farhanmaulana1710@gmail.com**
 
