@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,tailwindcss,github,git,vite" alt="Tools" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts,python,jupyter" alt="More Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts,python,kmeans" alt="More Tools" />
 </p>
 
 <h3 align="left">MyStats:</h3>
