@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 <a href="https://fmpangestu.vercel.app" target="blank">
-  <img src="https://fmpangestu.vercel.app/boy.png" alt="Instagram" width=60 height=60 margin-left=2 />
+  <img src="https://fmpangestu.vercel.app/boy.png" alt="Instagram" width=50 height=50 margin-left=2 />
 </a>
 </p>
 
