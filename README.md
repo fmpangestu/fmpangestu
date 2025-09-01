@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,tailwindcss,github,git,vite,npm" alt="Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=react,laravel,next,html,css,tailwindcss,github,git,vite,npm,prisma" alt="Tools" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,vercel,ts,python" alt="More Tools" />
 </p>
 
