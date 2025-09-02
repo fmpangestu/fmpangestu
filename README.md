@@ -13,19 +13,19 @@
 
 <p>
     <a href="https://www.linkedin.com/in/farhan-maulana-pangestu-ba8a3537b/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://www.instagram.com/farhanbaeee/?hl=id" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
     <a href="mailto:farhanmaulana1710@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://farhndv.me" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </p>
 
