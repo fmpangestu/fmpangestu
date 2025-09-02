@@ -54,20 +54,20 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-            src="https://github-readme-stats.vercel.app/api?username=fmpangestu&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true" 
+            src="https://github-readme-stats.vercel.app/api?username=fmpangestu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
             alt="Farhan's GitHub Stats"
         />
     </a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=catppuccin&hide_border=true&hide=css,html,php" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=github_dark&hide_border=true&hide=css,html,php" 
             alt="Top Languages"
         />
     </a>
     <a href="https://git.io/streak-stats">
         <img 
-            src="https://github-readme-streak-stats.onrender.com/?user=fmpangestu&theme=catppuccin&hide_border=true" 
+            src="https://github-readme-streak-stats.onrender.com/?user=fmpangestu&theme=github_dark&hide_border=true" 
             alt="GitHub Streak"
         />
     </a>
