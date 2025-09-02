@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://farhndv.me" target="_blank">
-  <img src="https://github.com/fmpangestu/fmpangestu/assets/107038528/8d94c9ad-268e-4a64-9a00-20f5c15e8e81" alt="Banner" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="100px" alt="Hello GIF" />
 </a>
 
 <br>
 
 <h1>
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Farhan Maulana Pangestu
+    Hi, I'm Farhan Maulana Pangestu
 </h1>
 
 <h3>A Passionate Front-End Developer from Indonesia 🇮🇩</h3>
@@ -79,10 +79,11 @@
     </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" height="150px" alt="fun gif">
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="150px" alt="funny gif">
+</p>
+
 
 </div>
