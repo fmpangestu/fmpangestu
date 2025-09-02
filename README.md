@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<div align="center" width="500px">
 
 <a href="https://farhndv.me" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D7BCEE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Farhan+Maulana+P.;A+Passionate+Front-End+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
