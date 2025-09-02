@@ -1,20 +1,14 @@
 <div align="center">
 
 <a href="https://farhndv.me" target="_blank">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="100px" alt="Hello GIF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D7BCEE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Farhan+Maulana+P.;A+Passionate+Front-End+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </a>
 
-<br>
-
-<h1>
-    Hi, I'm Farhan Maulana Pangestu
-</h1>
-
-<h3>A Passionate Front-End Developer from Indonesia 🇮🇩</h3>
+<h3>A JavaScript & TypeScript Enthusiast from Indonesia 🇮🇩</h3>
 
 <p>
-    I build modern, responsive, and engaging web experiences. <br> 
-    Currently focusing on the <b>Next.js</b> ecosystem with <b>TypeScript</b> and <b>Tailwind CSS</b>.
+    I focus on building modern, responsive, and engaging web experiences. <br> 
+    My core stack is <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.
 </p>
 
 <p>
@@ -60,20 +54,20 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-            src="https://github-readme-stats.vercel.app/api?username=fmpangestu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+            src="https://github-readme-stats.vercel.app/api?username=fmpangestu&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true" 
             alt="Farhan's GitHub Stats"
         />
     </a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=tokyonight&hide_border=true" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=catppuccin&hide_border=true&hide=css,html,php" 
             alt="Top Languages"
         />
     </a>
     <a href="https://git.io/streak-stats">
         <img 
-            src="http://github-readme-streak-stats.herokuapp.com?user=fmpangestu&theme=tokyonight&hide_border=true" 
+            src="https://github-readme-streak-stats.onrender.com/?user=fmpangestu&theme=catppuccin&hide_border=true" 
             alt="GitHub Streak"
         />
     </a>
@@ -84,6 +78,5 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="150px" alt="funny gif">
 </p>
-
 
 </div>
