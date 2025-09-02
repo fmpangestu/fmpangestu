@@ -73,10 +73,10 @@
     </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" height="150px" alt="fun gif">
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="150px" alt="funny gif">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fmpangestu/fmpangestu/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
