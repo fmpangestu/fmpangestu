@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://farhanmp.my.id" {:target="_blank"}>
+<a href="https://farhanmp.my.id" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D7BCEE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Farhan+Maulana+Pangestu.;A+Passionate+Front-End+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </a>
 
@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
-    <a href="https://farhndv.me" target="_blank">
+    <a href="https://farhanmp.my.id" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </p>
