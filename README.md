@@ -43,7 +43,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vercel,figma" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vercel,figma,supabase" />
     </a>
 </p>
 
