@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://farhanmp.my.id" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D7BCEE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Farhan+Maulana+Pangestu.;A+Passionate+Front-End+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D7BCEE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Farhan+Maulana+Pangestu.;A+Passionate+Front-End+Developer;Always+Learning+%26+Building" alt="Typing SVGs" />
 </a>
 
 <h3>A JavaScript & TypeScript Enthusiast from Indonesia 🇮🇩</h3>
