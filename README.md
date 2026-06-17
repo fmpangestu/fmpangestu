@@ -195,7 +195,7 @@ const farhan = {
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=github_dark&hide_border=true&hide=css,html,php" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmpangestu&layout=compact&theme=github_dark&hide_border=true&hide=css,html" alt="Top Languages" />
   </a>
   <br>
   <a href="https://git.io/streak-stats">
