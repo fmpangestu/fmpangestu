@@ -119,7 +119,7 @@ const farhan = {
 <h4>🛠️ Tools & DevOps</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vercel,figma,bruno" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vercel,figma,bru" />
   </a>
 </p>
 
