@@ -165,7 +165,7 @@ const farhan = {
       <sub>PWA untuk manajemen apartemen — penghuni bisa lihat tagihan, maintenance, dan notifikasi. Terintegrasi dengan Laravel API & Midtrans payment.</sub>
     </td>
     <td align="center" width="50%">
-      <h3>🎓 One School (Satu Sekolah)</h3>
+      <h3>🎓 Sekolayuk Apps (School Management System)</h3>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
